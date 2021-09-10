@@ -1,0 +1,1 @@
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp.UWP\ProgressApp.UWP.csproj;x86

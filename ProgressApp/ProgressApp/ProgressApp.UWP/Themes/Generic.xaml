@@ -1,0 +1,26 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProgressApp.UWP">
+
+    <Style TargetType="local:CustomCircleTemplate" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:CustomCircleTemplate">
+                    <Border
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Ellipse Margin="10 0 10 0" Fill="{TemplateBinding Fill}" Visibility="{TemplateBinding FirstEllipseVisibility}" Width="100" Height="100"/>
+                            <Ellipse Margin="10 0 10 0" Fill="{TemplateBinding Fill}" Visibility="{TemplateBinding SecondEllipseVisibility}" Width="100" Height="100"/>
+                            <Ellipse Margin="10 0 10 0" Fill="{TemplateBinding Fill}" Visibility="{TemplateBinding ThirdEllipseVisibility}" Width="100" Height="100"/>
+                            <Ellipse Margin="10 0 10 0" Fill="{TemplateBinding Fill}" Visibility="{TemplateBinding FourthEllipseVisibility}" Width="100" Height="100"/>
+                            <Ellipse Margin="10 0 10 0" Fill="{TemplateBinding Fill}" Visibility="{TemplateBinding FifthEllipseVisibility}" Width="100" Height="100"/>
+                        </StackPanel>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

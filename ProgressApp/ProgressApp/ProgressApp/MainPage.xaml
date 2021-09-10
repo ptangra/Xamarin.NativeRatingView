@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:views="clr-namespace:ProgressApp.Controls.Views"
+             x:Class="ProgressApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="GreenYellow" Padding="24" CornerRadius="0">
+            <Label Text="App for Progress!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <views:NativeRatingContainerView/>
+    </StackLayout>
+
+</ContentPage>

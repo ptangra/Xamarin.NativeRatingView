@@ -1,0 +1,16 @@
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\bin\Debug\netstandard2.0\ProgressApp.deps.json
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\bin\Debug\netstandard2.0\ProgressApp.dll
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\bin\Debug\netstandard2.0\ref\ProgressApp.dll
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\bin\Debug\netstandard2.0\ProgressApp.pdb
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.csproj.AssemblyReference.cache
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.AssemblyInfoInputs.cache
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.AssemblyInfo.cs
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.csproj.CoreCompileInputs.cache
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.dll
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ref\ProgressApp.dll
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\ProgressApp.pdb
+C:\Petar\ITMO\Progress\ProgressApp\ProgressApp\ProgressApp\obj\Debug\netstandard2.0\Controls\Views\NativeRatingContainerView.xaml.g.cs

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProgressApp.Controls.Views.NativeRatingContainerView">
+  <ContentView.Content>
+        <StackLayout>
+            <Frame Margin="5" x:Name="ratingViewFrame">
+            </Frame>
+            <Frame Margin="5">
+                <StackLayout Orientation="Horizontal" Spacing="30">
+                    <Entry x:Name="entryValue" Text="{Binding EntryValue}" Keyboard="Numeric" TextChanged="OnTextChanged"></Entry>
+                    <StackLayout Orientation="Horizontal">
+                        <Label VerticalOptions="Center">Color</Label>
+                        <Picker SelectedIndex="0" SelectedItem="{Binding EntryColor}" WidthRequest="100">
+                            <Picker.Items>
+                                <x:String>Red</x:String>
+                                <x:String>Blue</x:String>
+                                <x:String>Green</x:String>
+                                <x:String>Black</x:String>
+                                <x:String>Yellow</x:String>
+                            </Picker.Items>
+                        </Picker>
+                        <Button Text="Apply" Command="{Binding ApplyCommand}"/>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>
